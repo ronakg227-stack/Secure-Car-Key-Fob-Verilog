@@ -1,0 +1,14 @@
+*.jou
+*.log
+*.pb
+*.wdb
+*.str
+.Xil/
+sim_1/
+*.jou
+*.log
+*.pb
+*.wdb
+*.str
+.Xil/
+sim_1/
